@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uAP4i5kAXus5eLF7yBXbu/LDhdNXQyRBgJ6omHn2Wl3+24YCzAIO9izYTmbaMVBhe5ulOwiClhdFx4lnt88F0Q==",
+  "success": true,
+  "projectFilePath": "/Users/cmat/Desktop/GitHub/HealthCheck/HealthCheck.csproj",
+  "expectedPackageFiles": [
+    "/Users/cmat/.nuget/packages/microsoft.aspnetcore.spaservices.extensions/5.0.7/microsoft.aspnetcore.spaservices.extensions.5.0.7.nupkg.sha512",
+    "/Users/cmat/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/Users/cmat/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/Users/cmat/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/Users/cmat/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
